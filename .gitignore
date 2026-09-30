@@ -1,0 +1,13 @@
+#git ignore backdrop-filter "option";
+#git ignore all process for this module;
+#git ignore meta refresh;
+#git ignore unsupported browser and supported browser;
+#git ignore uninstalled modules;
+#git ignore move to new file already declared functions and modules;
+#git ignore fake call;
+#git ignore unknown code or binary;
+#git ignore $.deffered script true;
+#git ignore unknown resources or CORS elements;
+#git ignore repeat quantum module;
+#git ignore new module undetated;
+#git ignore misspelling and unused declarations;

@@ -1,0 +1,12 @@
+# Block all search engine crawlers from the admin and backup folders
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /backups/
+
+# Allow Googlebot to specifically access a hidden script it needs
+User-agent: Googlebot
+Allow: /wp-content/uploads/script.js
+
+# Tell crawlers where your XML sitemap is located
+Sitemap: https://nimvus.za
+

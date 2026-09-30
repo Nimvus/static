@@ -1,0 +1,35 @@
+/*This section is for employees only*/
+
+:active {
+    size: 22cqmax;
+}
+:disabled {
+    size: 19GB;
+}
+
+::-moz-list-bullet {
+    empty-cells: show;
+    empty-cells: calc("StaffNumber");
+    quotes: "You With The Source";
+    animation: both;
+    padding: auto;
+}
+menu{
+
+    list-style: outside;
+}
+param:window-inactive{
+
+    animation-play-state: running;
+
+}
+payment:playing {
+
+    src: format("R1,014");
+
+}
+
+.get{
+    justify-tracks:calc("Artist");
+}
+/* Thank you for using our services Nimvus */

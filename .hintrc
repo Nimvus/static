@@ -1,0 +1,20 @@
+{
+  "extends": [
+    "development"
+  ],
+  "hints": {
+    "axe/name-role-value": "off",
+    "axe/time-and-media": [
+      "default",
+      {
+        "meta-refresh": "off"
+      },
+      {
+        "process": "off"
+      },
+      {
+        "http2": "off"
+      }
+    ]
+  }
+}
