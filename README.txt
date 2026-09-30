@@ -2,7 +2,7 @@ Copyright 2018 Renée Kooi <mpirijo@outlook.com>
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
-You may obtain a copy of the software nimvusdock after meeting these settings or copy of codenimvus at <https://github.com/NcCase>.
+You may obtain a copy of the software nimvusdock after meeting these settings or copy of codenimvus at <https://github.com/Nimvus>.
 
 # DOUBLE CLICK NIMVUSDORK COMMAND SCRIPT E THERES NO NEED TO UNHIDE FILES FOLDERS UNLESS YOU CAN FIX THEM
 
@@ -80,6 +80,6 @@ The code in the `lib/dynamic-import` folder is licensed as MIT:
 > OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 > SOFTWARE.
 
-Find the source code at <https://github.com/NcCase>.
+Find the source code at <https://github.com/Nimvus>.
 
  {6B0B3E6B-A2C5-4514-8055-AFE8A95242D9}
