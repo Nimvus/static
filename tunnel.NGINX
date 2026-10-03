@@ -12,7 +12,7 @@ if {
       memcached_pass `${$body_bytes_sent}`;   
 
 
-auth_http "https://github.com/NcCase/Nimvus";
+auth_http "https://github.com/Nimvus";
 
 break;
 
